@@ -1,0 +1,121 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "8AlHsGjNKJbGrUAbOXWUsA=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/content/theme.ts",
+      "hash": "a7t68i3N/GHfZt+KEc93nA=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "R14nepQ2l6EKGckRIaG5Kw=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "xebla7eH7fjswlrNH0vFjA=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "uw4RukBKHR5M51BfqRbiUg=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "7ekNNAu2rWY3LubIoh5DMw=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "0a69xyhb1guXpUpDyJHqlg=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "yBkuO9dKCCu3A9cWl+tHUQ=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "LKvAKoLp5B0nOwlARjlT/g=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "855NbXgmwHvZK0vbstZMfg=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "dDEWQCKpDWZRSoFA4POfpA=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "eDDXT/0gZX4lTW2gdFxm3A=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "5P+9+6ijMefHEGeOCklW+g=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "P/d28CFoNBYOSntsrvBEAg=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "8rsIFV18GiKemxqs1vv82w=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "pMzmg9cGo3QLy5shl9oQhA=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "L3lBwCk6nIFao0aCrGuzNA=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "RSzJWnkIB2XE6nvdt4IBhQ=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "sgMce9dwR1P0CF7//szpUw=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "y9nx7YGtKe0y7KkpjOy7Iw=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "nzrzMWtyFcBE0uDQrGHX3Q=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "ncUmjYcSKZjABHJAjRPljQ=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "lfqg4RUsHinXgnALsUjndw=="
+  }
+}
