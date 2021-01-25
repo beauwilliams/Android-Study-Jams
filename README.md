@@ -1,4 +1,4 @@
-# Android Study Jams presented by Australian Google Developer Student Clubs Chapters
+# Android Study Jams presented by Australian Google DSC Chapters
 
 This is a repo to track an manage the content and workshops for these events
 
