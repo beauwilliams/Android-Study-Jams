@@ -6,12 +6,6 @@ import { theme } from './theme';
 
 export const config = /*#__PURE__*/configuration({
   theme,                                  // --> add the theme. modify `./theme.ts` for chaning the theme.
-  src: {                       // --> configure source files
-    base: 'docs/md'      // --> base the source to `src/markdowns`
-  },
-  dest: {                      // --> configure destination files
-    html: 'Android-Study-Jams/'          // --> base the destination of htmls to `dist/html`
-  },
   page: {
     title: {
       base: 'Android Study Jams'          // --> the base title of your doc pages
