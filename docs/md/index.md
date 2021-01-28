@@ -6,8 +6,6 @@ In this repository you will find links, content, slides and other interesting ti
 
 We look forward to meeting you all and getting our Android Development journey off to a kick-start!! 😀🚀
 
-<!--![banner](https://i.ibb.co/6F68zPV/Android-Study-Jams-DSC-Banner.jpg)-->
-> :Buttons
-> > :Button label=Official Docs, url=https://codedoc.cc
+![banner](https://i.ibb.co/6F68zPV/Android-Study-Jams-DSC-Banner.jpg)
 
 > :ToCPrevNext
