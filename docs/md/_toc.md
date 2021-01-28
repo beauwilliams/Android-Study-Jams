@@ -1,4 +1,6 @@
 [Home](/)
+[Study Jams Session 1](/docs/session1)
+[Links](/docs/links)
 [Markdown Cheat Sheet](/docs/cheat-sheet)
 [Code Features](/docs/code-features)
 

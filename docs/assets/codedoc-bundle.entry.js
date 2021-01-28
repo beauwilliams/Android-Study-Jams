@@ -16,6 +16,7 @@ import { copyLineLinks } from '/Users/admin/Git_Downloads/Android-Study-Jams/.co
 import { gatherFootnotes } from '/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { reloadOnChange } from '/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { ToCPrevNext } from '/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { GithubSearch } from '/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/Users/admin/Git_Downloads/Android-Study-Jams/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
@@ -24,6 +25,7 @@ import { CollapseControl } from '/Users/admin/Git_Downloads/Android-Study-Jams/.
 
 const components = {
   'L3lBwCk6nIFao0aCrGuzNA==': ToCPrevNext,
+  'VNIPCa+dZ+yA00zgL6jCHw==': GithubSearch,
   'RSzJWnkIB2XE6nvdt4IBhQ==': ToCToggle,
   'sgMce9dwR1P0CF7//szpUw==': DarkModeSwitch,
   'y9nx7YGtKe0y7KkpjOy7Iw==': ConfigTransport,

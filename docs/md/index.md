@@ -1,11 +1,12 @@
-# Codedoc Boilerplate
+# Welcome to Android Study Jams co-hosted by Aussie Google DSC Clubs
 
-Modify `docs/md/index.md` to change the contents of this page. This will be your starting
-page on your GitHub Pages site.
+In this repository you will find links, content, slides and other interesting tidbits from our workshop series
 
-To get started, run `codedoc check` to see which configurations you most probably need to change,
-and get instructions on how to change them. Also don't forget to check the official docs of **CODEDOC**.
+## This is a collaboration between Macquarie University, Monash University and University of Adelaide
 
+We look forward to meeting you all and getting our Android Development journey off to a kick-start!! 😀🚀
+
+![banner](https://i.ibb.co/6F68zPV/Android-Study-Jams-DSC-Banner.jpg)
 > :Buttons
 > > :Button label=Official Docs, url=https://codedoc.cc
 
