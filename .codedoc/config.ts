@@ -6,6 +6,9 @@ import { theme } from './theme';
 
 export const config = /*#__PURE__*/configuration({
   theme,                                  // --> add the theme. modify `./theme.ts` for chaning the theme.
+  dest: {
+  namespace: '/Android-Study-Jams',
+  },
   page: {
     title: {
       base: 'Android Study Jams'          // --> the base title of your doc pages
